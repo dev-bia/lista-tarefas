@@ -9,7 +9,7 @@ function addtarefa() {
     let valorInput = input.value;
 
     //Se não for vazio, nem nulo e nem indefinido:
-    if ((valorInput !== "") && (valorInput !== null) && (valorInput !== undefined)) {
+    if (valorInput !== "" && valorInput !== null && valorInput !== undefined) {
 
         ++contador;
 
