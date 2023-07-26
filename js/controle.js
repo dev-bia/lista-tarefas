@@ -4,7 +4,7 @@ let btnAdd = document.getElementById('btn-add');
 let main = document.getElementById('areaLista');
 let contador = 0;
 
-function addTarefa() {
+function addtarefa() {
     //Pegar o valor digitado no input
     let valorInput = input.value;
 
