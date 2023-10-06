@@ -65,3 +65,11 @@ Abra um Pull Request neste repositório.
 
 ### Autor 👩🏻‍💻
 Beatriz Araújo
+![print-todolist1](https://github.com/dev-bia/lista-tarefas/assets/113554986/ccff8e5d-c08d-46ee-a277-14c64fa9da0f)
+
+![print-todolist2](https://github.com/dev-bia/lista-tarefas/assets/113554986/e9c8d6a9-c80e-4ffc-a3d7-2a39601b4f89)
+
+![print-todolist3](https://github.com/dev-bia/lista-tarefas/assets/113554986/eabf99c6-345d-4c90-ba87-443043705b0e)
+
+
+
